@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">cango2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">fyp demo</string>
+    <string name="nav_header_subtitle">here is some function of our app</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_tts">Text to speech</string>
+    <string name="menu_text_from_camera">Get Text From Camera OR Image</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    //tts
+    <string name="button">Click to convert text to speech</string>
+</resources>
